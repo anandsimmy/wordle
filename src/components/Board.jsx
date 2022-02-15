@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-function Board() {
+const Board= () => {
   return <div className='App'>Wordle</div>;
 }
 
